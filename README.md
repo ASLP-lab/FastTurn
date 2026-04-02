@@ -1,7 +1,7 @@
 # FastTurn: Low-Latency Turn Detection for Full-Duplex Spoken Dialogue Systems
 
 
-This repository releases both the **FastTurn model** and the **FastTurn Test Set**.  
+This repository releases the **FastTurn Test Set**.  
 The model provides a unified solution for real-time turn detection, while the test set offers a benchmark designed to evaluate turn-taking behavior under realistic conversational conditions.
 
 # Download
