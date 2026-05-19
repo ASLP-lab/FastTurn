@@ -7,7 +7,10 @@ The model provides a unified solution for real-time turn detection, while the te
 
 # Download
 
-Please refer to the [FastTurn Testset](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset).
+# Download
+
+The FastTurn Testset is available at:
+[FastTurn-Testset](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset)
 
 # FastTurn Framework
 
