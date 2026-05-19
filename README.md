@@ -6,7 +6,8 @@ This repository releases the **FastTurn Test Set**.
 The model provides a unified solution for real-time turn detection, while the test set offers a benchmark designed to evaluate turn-taking behavior under realistic conversational conditions.
 
 # Download
-Please refer to [FastTurn Testset](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset)
+
+Please refer to the [FastTurn Testset](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset).
 
 # FastTurn Framework
 
