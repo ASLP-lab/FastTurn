@@ -1,5 +1,13 @@
 # FastTurn: Low-Latency Turn Detection for Full-Duplex Spoken Dialogue Systems
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.01897)  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://github.com/ASLP-lab/FastTurn)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)]([https://github.com/qualialabsAI/SmoothConv](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset))
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.01897)  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](# FastTurn: Low-Latency Turn Detection for Full-Duplex Spoken Dialogue Systems
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-COLOR.svg)](https://arxiv.org/pdf/2604.01897)  [![hf](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow)](https://github.com/ASLP-lab/FastTurn)  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)]([[https://github.com/qualialabsAI/SmoothConv](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset](https://github.com/ASLP-lab/FastTurn)))
+
+
+This repository releases the **FastTurn Test Set**.  
+The model provides a unified solution for real-time turn detection, while the test set offers a benchmark designed to evaluate turn-taking behavior under realistic conversational conditions.
+
+# Download
+Please refer to [FastTurn Testset](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset))  [![GitHub](https://img.shields.io/badge/GitHub-Repo-green)]([https://github.com/qualialabsAI/SmoothConv](https://huggingface.co/datasets/ASLP-lab/FastTurn-Testset))
 
 
 This repository releases the **FastTurn Test Set**.  
